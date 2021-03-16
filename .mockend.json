@@ -1,0 +1,15 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "based upon Swagger at [https://www.swagger.io](https://www.swagger.io).",
+    "version": "1.0.0.0",
+    "title": "My Dummy App"
+  },
+  "license": {
+    "name": "Apache 2.0",
+    "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+  },
+  "host": "github.com/htdavis",
+  "basepath": "/v1",
+  
+}
